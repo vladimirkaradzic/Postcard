@@ -13,6 +13,8 @@
 		E7281BEB1B2FD89000F32501 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7281BEA1B2FD89000F32501 /* Images.xcassets */; };
 		E7281BEE1B2FD89000F32501 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E7281BEC1B2FD89000F32501 /* LaunchScreen.xib */; };
 		E7281BFA1B2FD89000F32501 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7281BF91B2FD89000F32501 /* PostcardTests.swift */; };
+		E7281C041B3091F700F32501 /* food-salad-red-lunch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7281C031B3091F700F32501 /* food-salad-red-lunch.jpg */; };
+		E7281C081B31F7E500F32501 /* light-sunset-man-beach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E7281C071B31F7E500F32501 /* light-sunset-man-beach.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E7281BF31B2FD89000F32501 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7281BF81B2FD89000F32501 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E7281BF91B2FD89000F32501 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		E7281C031B3091F700F32501 /* food-salad-red-lunch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "food-salad-red-lunch.jpg"; sourceTree = "<group>"; };
+		E7281C071B31F7E500F32501 /* light-sunset-man-beach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "light-sunset-man-beach.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E7281BE11B2FD89000F32501 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E7281C071B31F7E500F32501 /* light-sunset-man-beach.jpg */,
+				E7281C031B3091F700F32501 /* food-salad-red-lunch.jpg */,
 				E7281BE21B2FD89000F32501 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7281C041B3091F700F32501 /* food-salad-red-lunch.jpg in Resources */,
 				E7281BE91B2FD89000F32501 /* Main.storyboard in Resources */,
+				E7281C081B31F7E500F32501 /* light-sunset-man-beach.jpg in Resources */,
 				E7281BEE1B2FD89000F32501 /* LaunchScreen.xib in Resources */,
 				E7281BEB1B2FD89000F32501 /* Images.xcassets in Resources */,
 			);
